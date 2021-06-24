@@ -1,0 +1,600 @@
+{
+    "LineEdit": [
+        {
+            "bgclr": "",
+            "bgimg": "",
+            "description": "Style LineEdit in editor",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Times New Roman",
+                10,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "m1_et",
+            "other": [
+                10,
+                0
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                200,
+                40
+            ]
+        },
+        {
+            "bgclr": "",
+            "bgimg": "",
+            "description": "Style LineEdit in design editor",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Times New Roman",
+                10,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "de_edit",
+            "other": [
+                0,
+                0
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                200,
+                40
+            ]
+        }
+    ],
+    "button": [
+        {
+            "bgclr": "#307890",
+            "bgimg": "source/hold_1.png",
+            "description": "test button",
+            "fgclr": "white",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Arial",
+                10,
+                "AlignCenter"
+            ],
+            "hoimg": "source/hover_1.png",
+            "name": "Button1",
+            "other": [
+                0,
+                0
+            ],
+            "presclr": "",
+            "primg": "source/pressed_1.png",
+            "selclr": "#d0dfd0",
+            "size": [
+                120,
+                40
+            ]
+        },
+        {
+            "bgclr": "",
+            "bgimg": "source/hold_1.png",
+            "description": "edit button",
+            "fgclr": "white",
+            "fghoclr": "black",
+            "fgprclr": "",
+            "font": [
+                "Daedric",
+                10,
+                "AlignCenter"
+            ],
+            "hoimg": "source/hover_1.png",
+            "name": "Edit",
+            "other": [
+                40,
+                "Edit"
+            ],
+            "presclr": "",
+            "primg": "source/pressed_1.png",
+            "selclr": "",
+            "size": [
+                150,
+                40
+            ]
+        },
+        {
+            "bgclr": "",
+            "bgimg": "source/hold_1.png",
+            "description": "editor mod1 buttons",
+            "fgclr": "white",
+            "fghoclr": "black",
+            "fgprclr": "",
+            "font": [
+                "Arial",
+                10,
+                "AlignCenter"
+            ],
+            "hoimg": "source/hover_1.png",
+            "name": "mod1",
+            "other": [
+                40,
+                "\u0417\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u044c",
+                "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c",
+                "\u0423\u0434\u0430\u043b\u0438\u0442\u044c",
+                "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c"
+            ],
+            "presclr": "",
+            "primg": "source/pressed_1.png",
+            "selclr": "",
+            "size": [
+                150,
+                40
+            ]
+        },
+        {
+            "bgclr": "",
+            "bgimg": "",
+            "description": "next previous buttons",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Arial",
+                14,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "m0_pos",
+            "other": [
+                0,
+                "<<",
+                ">>"
+            ],
+            "presclr": "#dfc0c0",
+            "primg": "",
+            "selclr": "#c0dfc0",
+            "size": [
+                50,
+                50
+            ]
+        },
+        {
+            "bgclr": "",
+            "bgimg": "source/hold_1.png",
+            "description": "design editor buttons",
+            "fgclr": "white",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Arial",
+                10,
+                "AlignCenter"
+            ],
+            "hoimg": "source/hover_1.png",
+            "name": "de_button",
+            "other": [
+                10,
+                10,
+                "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c",
+                "\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u043a\u0430\u043a...",
+                "\u041f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c",
+                "Test.Apply"
+            ],
+            "presclr": "",
+            "primg": "source/pressed_1.png",
+            "selclr": "",
+            "size": [
+                150,
+                40
+            ]
+        }
+    ],
+    "combobox": [
+        {
+            "bgclr": "white",
+            "bgimg": "",
+            "description": "week comboboxes",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Times New Roman",
+                12,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "m0_box",
+            "other": [
+                "",
+                ""
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                150,
+                25
+            ]
+        },
+        {
+            "bgclr": "white",
+            "bgimg": "",
+            "description": "editor comboboxes",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Times New Roman",
+                12,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "m1_box",
+            "other": [
+                "",
+                ""
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                200,
+                25
+            ]
+        },
+        {
+            "bgclr": "white",
+            "bgimg": "",
+            "description": "design editor comboboxes",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Times New Roman",
+                12,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "de_box",
+            "other": [
+                "",
+                "",
+                10,
+                20
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                200,
+                25
+            ]
+        }
+    ],
+    "frame": [
+        {
+            "bgclr": "#d0d0d0",
+            "bgimg": "",
+            "description": "RightPanel",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Times New Roman",
+                16,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "RightPanel",
+            "other": [
+                0,
+                0
+            ],
+            "presclr": "black",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                200,
+                0
+            ]
+        },
+        {
+            "bgclr": "",
+            "bgimg": "",
+            "description": "CenterPanel",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Times New Roman",
+                16,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "CenterPanel",
+            "other": [
+                0,
+                0
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                0,
+                0
+            ]
+        },
+        {
+            "bgclr": "",
+            "bgimg": "",
+            "description": "",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Times New Roman",
+                16,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "Window",
+            "other": [
+                0,
+                0
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "#d0d0d0",
+            "size": [
+                1000,
+                750
+            ]
+        }
+    ],
+    "label": [
+        {
+            "bgclr": "",
+            "bgimg": "",
+            "description": "Current week label",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Arial",
+                12,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "CurWeek",
+            "other": [
+                40,
+                "\u041d\u0435\u0434\u0435\u043b\u044f: "
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                120,
+                40
+            ]
+        },
+        {
+            "bgclr": "",
+            "bgimg": "",
+            "description": "Current week label",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Times New Roman",
+                12,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "CurDay",
+            "other": [
+                20,
+                "\u0414\u0435\u043d\u044c: ",
+                "\u041f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a",
+                "\u0412\u0442\u043e\u0440\u043d\u0438\u043a",
+                "\u0421\u0440\u0435\u0434\u0430",
+                "\u0427\u0435\u0442\u0432\u0435\u0440\u0433",
+                "\u041f\u044f\u0442\u043d\u0438\u0446\u0430",
+                "\u0421\u0443\u0431\u0431\u043e\u0442\u0430",
+                "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435"
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                120,
+                50
+            ]
+        },
+        {
+            "bgclr": "",
+            "bgimg": "",
+            "description": "Selected week label",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Arial",
+                15,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "m0_week",
+            "other": [
+                40,
+                "\u041d\u0435\u0434\u0435\u043b\u044f: ",
+                10,
+                10
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                150,
+                50
+            ]
+        },
+        {
+            "bgclr": "#90c090",
+            "bgimg": "",
+            "description": "days in week label",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Arial",
+                10,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "m0_day",
+            "other": [
+                320,
+                "\u041f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a",
+                "\u0412\u0442\u043e\u0440\u043d\u0438\u043a",
+                "\u0421\u0440\u0435\u0434\u0430",
+                "\u0427\u0435\u0442\u0432\u0435\u0440\u0433",
+                "\u041f\u044f\u0442\u043d\u0438\u0446\u0430",
+                "\u0421\u0443\u0431\u0431\u043e\u0442\u0430",
+                "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435"
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                265,
+                30
+            ]
+        },
+        {
+            "bgclr": "#909090",
+            "bgimg": "",
+            "description": "number in week label(have width not height)",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Arial",
+                8,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "m0_num",
+            "other": [
+                0,
+                "1\n9:00-10:35",
+                "2\n10:45-12:20",
+                "3\n13:00-14:35",
+                "4\n14:45-16:20",
+                "5\n16:30-18:05"
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                60,
+                20
+            ]
+        },
+        {
+            "bgclr": "#dadada",
+            "bgimg": "",
+            "description": "pari label(not have size)",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Arial",
+                10,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "m0_para",
+            "other": [
+                0,
+                0
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                100,
+                20
+            ]
+        },
+        {
+            "bgclr": "#90c090",
+            "bgimg": "",
+            "description": "editor labels",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Arial",
+                10,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "m1_et",
+            "other": [
+                10,
+                20,
+                "ID:",
+                "\u041f\u0440\u0435\u0434\u043c\u0435\u0442:",
+                "\u041d\u0435\u0434\u0435\u043b\u0438:",
+                "\u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c:",
+                "\u0410\u0443\u0434\u0438\u0442\u043e\u0440\u0438\u044f:",
+                "\u0414\u0435\u043d\u044c \u043d\u0435\u0434\u0435\u043b\u0438:",
+                "\u041d\u043e\u043c\u0435\u0440 \u043f\u0430\u0440\u044b:"
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                120,
+                40
+            ]
+        },
+        {
+            "bgclr": "#dadada",
+            "bgimg": "",
+            "description": "design description label",
+            "fgclr": "black",
+            "fghoclr": "",
+            "fgprclr": "",
+            "font": [
+                "Arial",
+                10,
+                "AlignCenter"
+            ],
+            "hoimg": "",
+            "name": "de_label",
+            "other": [
+                10,
+                "\u0422\u0438\u043f",
+                "\u041e\u0431\u044a\u0435\u043a\u0442",
+                "\u041f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f",
+                "\u041d\u043e\u043c\u0435\u0440",
+                "\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435"
+            ],
+            "presclr": "",
+            "primg": "",
+            "selclr": "",
+            "size": [
+                120,
+                40
+            ]
+        }
+    ],
+    "name": "s",
+    "selected": "default"
+}
